@@ -1,6 +1,9 @@
 url: https://chatgpt.com/share/68e66387-7f94-8009-8c85-a3c1965ebb7a
 ---
 
+	`t20-system 'Create a self-updating system that tracks and analyzes semantic drift between Task-Agnostic Steps (TAS) using embeddings. The system should record TAS text, role context, and timestamp, generate embeddings (e.g., with `text-embedding-3-large`), and measure similarity over time to detect conceptual or linguistic drift in evolving AI/human workflows.' -olilo`
+
+---
 
 Perfect.
 To confirm — the plan will be generated for **“TAS Embedding Tracker”**, which is part of the **TET (Task Embedding Tracker)** module in the broader TAS/TET framework.
